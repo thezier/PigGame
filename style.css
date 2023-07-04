@@ -180,18 +180,29 @@ main {
     top: 50%;
     transform: translateY(-50%) translateX(-50%);
     left: 20%;
+    font-size: 1.7em;
+    letter-spacing: 0;
+    line-height: 1.8em;
   }
   .btn--roll {
     top: 45%;
     transform: translateY(-50%) translateX(-50%);
     left: 80%;
     width: 180px;
+    z-index: 2;
+    font-size: 1.7em;
+    letter-spacing: 0;
+    line-height: 1.8em;
   }
   .btn--hold {
     top: 55%;
     transform: translateY(-50%) translateX(-50%);
     left: 80%;
-    width: 140px;
+    width: 150px;
+    z-index: 2;
+    font-size: 1.7em;
+    letter-spacing: 0;
+    line-height: 1.8em;
   }
   .player {
     padding: 1rem;
